@@ -1,5 +1,6 @@
 # Reflow-oven-controller-
-**What the Project is about: **
+
+**What the Project is about:**
 This project presents the Reflow Oven Controller, a sophisticated device engineered to precisely regulate the temperature of a conventional toaster oven via a solid-state relay. Programmed in assembly language, our controller boasts the capability to monitor temperatures ranging from 25°C to 240°C using a K-type thermocouple with cold junction compensation. Equipped with a user-friendly interface, it enables users to select reflow profile parameters and provides real-time displays of temperature, running time, and current reflow process status. Utilizing Pulse Coded Modulation (PCM) in conjunction with a Digital to Analog Converter (DAC), the device offers audible temperature feedback every 5 seconds, along with indications of the reflow process status.
 
 **What the report contains:**
